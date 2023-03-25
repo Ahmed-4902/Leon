@@ -1,0 +1,18 @@
+{
+	"name": "01-leon",
+	"version": "1.0.0",
+	"description": "<h2>Website Link</h2>\r https://ahmed-4902.github.io/leon/",
+	"main": "index.js",
+	"scripts": {
+		"compile:sass": "sass --watch scss:app/css"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "MIT",
+	"devDependencies": {
+		"sass": "^1.58.0"
+	},
+	"dependencies": {
+		"bootstrap": "^5.3.0-alpha1"
+	}
+}
